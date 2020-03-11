@@ -1,0 +1,13 @@
+{
+    "faces":{
+        "data":[
+            {
+                "faceId":100006,
+                "fileUrl":"http://pic4.zhimg.com/50/v2-236c74303ee2e7da84cab2b21b8ef30b_hd.jpg"
+            }
+        ],
+        "errorCode":0,
+        "errorMsg":"ok",
+        "success":true
+    }
+}
