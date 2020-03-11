@@ -2,8 +2,12 @@
     "faces":{
         "data":[
             {
-                "faceId":100006,
+                "faceId":100001,
                 "fileUrl":"http://pic4.zhimg.com/50/v2-236c74303ee2e7da84cab2b21b8ef30b_hd.jpg"
+            },
+            {
+                "faceId":100002,
+                "fileUrl":"http://img5.imgtn.bdimg.com/it/u=1479777781,3643839950&fm=26&gp=0.jpg"
             }
         ],
         "errorCode":0,
